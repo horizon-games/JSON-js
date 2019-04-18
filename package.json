@@ -1,0 +1,19 @@
+{
+  "name": "json-cycle",
+  "version": "1.0.0",
+  "description": "JSON in JavaScript",
+  "main": "cycle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horizon-games/JSON-js.git"
+  },
+  "author": "Tomasz Dysinski <oz@bunnybones.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horizon-games/JSON-js/issues"
+  },
+  "homepage": "https://github.com/horizon-games/JSON-js#readme"
+}
